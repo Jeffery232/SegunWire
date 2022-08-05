@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SegunWire", "SegunWire.csproj", "{F3281DD7-B777-4EDB-8A54-803AB5A8F5FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3281DD7-B777-4EDB-8A54-803AB5A8F5FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3281DD7-B777-4EDB-8A54-803AB5A8F5FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3281DD7-B777-4EDB-8A54-803AB5A8F5FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3281DD7-B777-4EDB-8A54-803AB5A8F5FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3B7D17A-009F-4285-B39E-968347568E0A}
+	EndGlobalSection
+EndGlobal
